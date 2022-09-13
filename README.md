@@ -3,3 +3,4 @@ https://docs.google.com/document/d/10MqGBaHR7Fj8LSPyZLliOYoGcg58WmTNlX8YJ2aMPgE/
 https://docs.google.com/document/d/17O8lFoAgSWuTHndzPYal1amav9J3ug7jHYTcezsaE7M/edit?usp=sharing - er- диаграммы 
 https://docs.google.com/document/d/1kzHEtK0Hn6cD_u1lnSgd3xwpvb25RH10wgXoBcKqSBM/edit?usp=sharing - дз/таблицы
 https://docs.google.com/document/d/19FBhNRvNgpPvfKVuvDiGMZiI6sMJQmpT-S5ZRsQDol4/edit?usp=sharing
+https://docs.google.com/document/d/1jA4Ykfb3755IkujbNyMPk4lYStOoTJAQwDt1Re9DjZo/edit?usp=sharing бд 13.09.2022 
