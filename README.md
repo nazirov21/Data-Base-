@@ -6,3 +6,4 @@ https://docs.google.com/document/d/19FBhNRvNgpPvfKVuvDiGMZiI6sMJQmpT-S5ZRsQDol4/
 https://docs.google.com/document/d/1jA4Ykfb3755IkujbNyMPk4lYStOoTJAQwDt1Re9DjZo/edit?usp=sharing бд 13.09.2022 
 https://docs.google.com/document/d/1io7TI0UrD5s9d6oUYkhmsd42Ll1eyXYhwh3KUKVIt_M/edit?usp=sharing -БД покупки в супермаркете 
 https://docs.google.com/spreadsheets/d/1tdUrE9uQBHtkepruQtyfvA2vOoG3PpJJ-kDPAeN_vXA/edit?usp=sharing БД Excеl
+https://docs.google.com/document/d/17RWx-XzzxLCFRFUajCZwvZnVd_DjLxZgRK2ZZcYa-AE/edit?usp=sharing - 20.09.2022 
