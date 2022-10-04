@@ -8,4 +8,5 @@ https://docs.google.com/document/d/1io7TI0UrD5s9d6oUYkhmsd42Ll1eyXYhwh3KUKVIt_M/
 https://docs.google.com/spreadsheets/d/1tdUrE9uQBHtkepruQtyfvA2vOoG3PpJJ-kDPAeN_vXA/edit?usp=sharing БД Excеl
 https://docs.google.com/document/d/17RWx-XzzxLCFRFUajCZwvZnVd_DjLxZgRK2ZZcYa-AE/edit?usp=sharing - 20.09.2022 
 https://docs.google.com/document/d/15hhOja6RqPlPs3US3wLdDQlUhl55Hq4mVhbJS4m1BFA/edit?usp=sharing ер-диаграмма
+https://docs.google.com/document/d/1mHngIU-qKyLXkVU-oP2n0NsQpqzBbATEg9JPkNGF_tg/edit?usp=sharing sql команды - 27.09.2022
 https://docs.google.com/document/d/1ttYm5W4IzKLI5hDeKwSHXuTpGU1UqPNaowUNlQL7LDU/edit?usp=sharing - stepik 30.09.20022
