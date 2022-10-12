@@ -10,3 +10,5 @@ https://docs.google.com/document/d/17RWx-XzzxLCFRFUajCZwvZnVd_DjLxZgRK2ZZcYa-AE/
 https://docs.google.com/document/d/15hhOja6RqPlPs3US3wLdDQlUhl55Hq4mVhbJS4m1BFA/edit?usp=sharing ер-диаграмма
 https://docs.google.com/document/d/1mHngIU-qKyLXkVU-oP2n0NsQpqzBbATEg9JPkNGF_tg/edit?usp=sharing sql команды - 27.09.2022
 https://docs.google.com/document/d/1ttYm5W4IzKLI5hDeKwSHXuTpGU1UqPNaowUNlQL7LDU/edit?usp=sharing - stepik 30.09.20022
+https://docs.google.com/document/d/1INSzDb8pr5zm-EXc9pKRgwD9QDenbYnzroATTu12YQA/edit?usp=sharing код для видео 
+https://drive.google.com/file/d/1r7m_2cwpk6t0QOjurrVU75S5fLYIL9DD/view?usp=sharing - видео б/д shop
