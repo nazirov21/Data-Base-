@@ -12,3 +12,4 @@ https://docs.google.com/document/d/1mHngIU-qKyLXkVU-oP2n0NsQpqzBbATEg9JPkNGF_tg/
 https://docs.google.com/document/d/1ttYm5W4IzKLI5hDeKwSHXuTpGU1UqPNaowUNlQL7LDU/edit?usp=sharing - stepik 30.09.20022
 https://docs.google.com/document/d/1INSzDb8pr5zm-EXc9pKRgwD9QDenbYnzroATTu12YQA/edit?usp=sharing код для видео 
 https://drive.google.com/file/d/1r7m_2cwpk6t0QOjurrVU75S5fLYIL9DD/view?usp=sharing - видео б/д shop
+https://docs.google.com/document/d/1Ppsc_BPcxNgJbxwIW_hrj56qMMCt18jrtB-d83ZWlyI/edit?usp=sharing- конспекты за 20.09.2022-28.09.2022
