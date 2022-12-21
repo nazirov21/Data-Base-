@@ -14,3 +14,5 @@ https://docs.google.com/document/d/1INSzDb8pr5zm-EXc9pKRgwD9QDenbYnzroATTu12YQA/
 https://drive.google.com/file/d/1r7m_2cwpk6t0QOjurrVU75S5fLYIL9DD/view?usp=sharing - видео б/д shop
 https://docs.google.com/document/d/1Ppsc_BPcxNgJbxwIW_hrj56qMMCt18jrtB-d83ZWlyI/edit?usp=sharing- конспекты за 20.09.2022-28.09.2022
 https://docs.google.com/spreadsheets/d/1V3t-Au0YjsfdWtLXr2a15Ztn6C0nBva3/edit#gid=346145295 - матеша  в excele 12.12.2022
+https://docs.google.com/spreadsheets/d/1C9DaOkfYfvVqjxAJCNg0XuGO8UE3ZdDZ/edit?usp=drivesdk&ouid=113646634733123735863&rtpof=true&sd=true- таблица глазки сейв
+https://docs.google.com/document/d/1OPWwf9-aGV4xhkfQQAeKdsY7je8-U2z5yoCFDUyf9x8/edit?usp=drivesdk - перенос таблицыv
