@@ -16,4 +16,4 @@ https://docs.google.com/document/d/1Ppsc_BPcxNgJbxwIW_hrj56qMMCt18jrtB-d83ZWlyI/
 https://docs.google.com/spreadsheets/d/1C9DaOkfYfvVqjxAJCNg0XuGO8UE3ZdDZ/edit?usp=drivesdk&ouid=113646634733123735863&rtpof=true&sd=true- таблица глазки сейв
 https://docs.google.com/document/d/1OPWwf9-aGV4xhkfQQAeKdsY7je8-U2z5yoCFDUyf9x8/edit?usp=drivesdk - перенос таблицыv
 https://docs.google.com/spreadsheets/d/1CSGOj_L0v72LhML26vlKCsAMpBipt1aySrIzTBDM7qc/edit?usp=sharing - матеша  в excele 12.12.2022
-https://docs.google.com/document/d/1s5E01h2VBDBz5hOdqyCLSY41BWGYzHDjT31dhOT9O5M/edit -импорт таблиц 
+https://docs.google.com/document/d/1-NUcxHg26w3RH44jm0ult3Y19w2r9lJSorx86SedZ_c/edit -импорт таблиц 
