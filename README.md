@@ -17,3 +17,4 @@ https://docs.google.com/spreadsheets/d/1C9DaOkfYfvVqjxAJCNg0XuGO8UE3ZdDZ/edit?us
 https://docs.google.com/document/d/1OPWwf9-aGV4xhkfQQAeKdsY7je8-U2z5yoCFDUyf9x8/edit?usp=drivesdk - перенос таблицыv
 https://docs.google.com/spreadsheets/d/1CSGOj_L0v72LhML26vlKCsAMpBipt1aySrIzTBDM7qc/edit?usp=sharing - матеша  в excele 12.12.2022
 https://docs.google.com/document/d/1-NUcxHg26w3RH44jm0ult3Y19w2r9lJSorx86SedZ_c/edit -импорт таблиц 
+https://docs.google.com/document/d/12sIZIvFztDLgF2Wt2784bQu8gJi8ZjAjzfw0WOqhNE0/edit - stepik
