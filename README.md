@@ -19,3 +19,4 @@ https://docs.google.com/spreadsheets/d/1CSGOj_L0v72LhML26vlKCsAMpBipt1aySrIzTBDM
 https://docs.google.com/document/d/1-NUcxHg26w3RH44jm0ult3Y19w2r9lJSorx86SedZ_c/edit -импорт таблиц 
 https://docs.google.com/document/d/12sIZIvFztDLgF2Wt2784bQu8gJi8ZjAjzfw0WOqhNE0/edit - stepik
 https://docs.google.com/document/d/13HJAWSOhqvOAqtaVwE4drpX0ab-JBStYiNiZkaKlKl8/edit - learn school
+https://docs.google.com/document/d/1oz7LUSsAGdz1ocr3I5xz1kr4yxZOr2rMISTSCcnQgGQ/edit?usp=drivesdk - stepik 
