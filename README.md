@@ -20,3 +20,4 @@ https://docs.google.com/document/d/1-NUcxHg26w3RH44jm0ult3Y19w2r9lJSorx86SedZ_c/
 https://docs.google.com/document/d/12sIZIvFztDLgF2Wt2784bQu8gJi8ZjAjzfw0WOqhNE0/edit - stepik
 https://docs.google.com/document/d/13HJAWSOhqvOAqtaVwE4drpX0ab-JBStYiNiZkaKlKl8/edit - learn school
 https://docs.google.com/document/d/1oz7LUSsAGdz1ocr3I5xz1kr4yxZOr2rMISTSCcnQgGQ/edit?usp=drivesdk - stepik 
+https://docs.google.com/document/d/11eyScxJ024M5HVsYJD8RKjRWQaHk_n7fhUQj-NHK76c/edit - LearnDB
