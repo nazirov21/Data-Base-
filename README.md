@@ -21,3 +21,4 @@ https://docs.google.com/document/d/12sIZIvFztDLgF2Wt2784bQu8gJi8ZjAjzfw0WOqhNE0/
 https://docs.google.com/document/d/13HJAWSOhqvOAqtaVwE4drpX0ab-JBStYiNiZkaKlKl8/edit - learn school
 https://docs.google.com/document/d/1oz7LUSsAGdz1ocr3I5xz1kr4yxZOr2rMISTSCcnQgGQ/edit?usp=drivesdk - stepik 
 https://docs.google.com/document/d/11eyScxJ024M5HVsYJD8RKjRWQaHk_n7fhUQj-NHK76c/edit - LearnDB
+https://docs.google.com/document/d/17to0BAiI7iEsGq7-KjFQkwbeiOFc6ts0BkeGaxpOg1Q/edit -sqlmap
