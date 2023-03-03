@@ -22,3 +22,4 @@ https://docs.google.com/document/d/13HJAWSOhqvOAqtaVwE4drpX0ab-JBStYiNiZkaKlKl8/
 https://docs.google.com/document/d/1oz7LUSsAGdz1ocr3I5xz1kr4yxZOr2rMISTSCcnQgGQ/edit?usp=drivesdk - stepik 
 https://docs.google.com/document/d/17to0BAiI7iEsGq7-KjFQkwbeiOFc6ts0BkeGaxpOg1Q/edit -sqlmap
 https://docs.google.com/document/d/187fAx3tl0H5mVQDsb87wZ5vNTdYSschyb-tuQEO8WJU/edit -learnDB
+https://docs.google.com/document/d/1Jd_cVgCltsx2kpcm1hT2M3IsfKv-gNCdcbRIMg2loIE/edit?usp=sharing -взлом сайта
