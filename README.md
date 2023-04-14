@@ -23,3 +23,4 @@ https://docs.google.com/document/d/1oz7LUSsAGdz1ocr3I5xz1kr4yxZOr2rMISTSCcnQgGQ/
 https://docs.google.com/document/d/17to0BAiI7iEsGq7-KjFQkwbeiOFc6ts0BkeGaxpOg1Q/edit -sqlmap
 https://docs.google.com/document/d/187fAx3tl0H5mVQDsb87wZ5vNTdYSschyb-tuQEO8WJU/edit -learnDB
 https://docs.google.com/document/d/1Jd_cVgCltsx2kpcm1hT2M3IsfKv-gNCdcbRIMg2loIE/edit?usp=sharing -взлом сайта
+https://docs.google.com/document/d/18ZCibMosdGw4T9Da6S-3Ya6RTjq3GboUu5Lm5bg8f9A/edit?usp=sharing  -автосервис
